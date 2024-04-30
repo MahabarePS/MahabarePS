@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabareps&label=Profile%20views&color=4b21c0&style=flat-square" alt="mahabareps" /> </p>
 
-<a href="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" target="blank"><img align="center" src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" height="700" /></a>
+<a href="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" target="blank"><img align="center" src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" height="400" /></a>
 
-<h3 align="center">Explorer in full-stack development, UI/UX design, and database management with expertise in cloud technologies. Proven track record of optimization systems, enhancing user experiences, and improving efficiency through automation. Strong problem-solving abilities and collaborative mindset, coupled with a background in network engineering and IT help desk management.</h3>
+<h3 align="center">Explorer in full-stack development, UI/UX design, and database management with expertise in cloud technologies. Proven track record of optimizing systems, enhancing user experiences, and improving efficiency through automation. Strong problem-solving abilities and collaborative mindset, coupled with a background in network engineering and IT help desk management.</h3>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahabareps&show_icons=true&theme=dark&locale=en" alt="mahabareps" /></p>
