@@ -48,7 +48,7 @@
 
 - ⚡ Fun fact **I'm an artist who can speak six languages: Marathi, Hindi, Sanskrit, English, Japanese, and Spanish**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabareps&theme=highcontrast" alt="mahabareps" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabareps&theme=highcontrast" alt="mahabareps" /></p>-->
 
 <!--<h3 align="center">Hola at:</h3>
 <p align="center">
