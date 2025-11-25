@@ -6,7 +6,15 @@
 
 <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahabareps&show_icons=true&theme=dark&locale=en" alt="mahabareps" /></p>-->
 
-<h3>My rainbow Deck for MTG</h3>
+**Currently:**
+
+- 🌱 I’m learning **Embedded Systems**
+
+- 👯 I’m looking to collaborate on **Embedded Firmwares / Designing Embedded Systems**
+
+- ⚡ Fun fact **There aren't any LMAO**
+
+<h3>I have worked on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,19 +42,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-**Currently:**
 
-- 🔭 I’m working on [re-implementation of a React Admin Dashboard](https://github.com/refinedev/refine)
-
-- 📝 I wrote articles on [https://medium.com/@prasadmahabare](https://medium.com/@prasadmahabare)
-
-- 🌱 I’m learning **Taekwando**
-
-- 👯 I’m looking to collaborate on **Game Design, UI/UX, Backend, Frontend, Data Analytics project**
-
-- 💬 Ask me about **project management, data structures, and problem-solving, documentation, Beta Tests**
-
-- ⚡ Fun fact **I'm an artist who can speak six languages: Marathi, Hindi, Sanskrit, English, Japanese, and Spanish**
 
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabareps&theme=highcontrast" alt="mahabareps" /></p>-->
 
